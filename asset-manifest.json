@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/HAI/static/css/main.59eb4992.chunk.css",
-    "main.js": "/HAI/static/js/main.27c07994.chunk.js",
-    "main.js.map": "/HAI/static/js/main.27c07994.chunk.js.map",
+    "main.js": "/HAI/static/js/main.982b9dcd.chunk.js",
+    "main.js.map": "/HAI/static/js/main.982b9dcd.chunk.js.map",
     "runtime-main.js": "/HAI/static/js/runtime-main.94cf5f1f.js",
     "runtime-main.js.map": "/HAI/static/js/runtime-main.94cf5f1f.js.map",
     "static/js/2.14fe5c20.chunk.js": "/HAI/static/js/2.14fe5c20.chunk.js",
     "static/js/2.14fe5c20.chunk.js.map": "/HAI/static/js/2.14fe5c20.chunk.js.map",
     "index.html": "/HAI/index.html",
-    "precache-manifest.7af5b592e1f20fe3c09e9bb4944f285e.js": "/HAI/precache-manifest.7af5b592e1f20fe3c09e9bb4944f285e.js",
+    "precache-manifest.5c829ed1ca6f458a89247cbf2e246068.js": "/HAI/precache-manifest.5c829ed1ca6f458a89247cbf2e246068.js",
     "service-worker.js": "/HAI/service-worker.js",
     "static/css/main.59eb4992.chunk.css.map": "/HAI/static/css/main.59eb4992.chunk.css.map",
     "static/js/2.14fe5c20.chunk.js.LICENSE.txt": "/HAI/static/js/2.14fe5c20.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.94cf5f1f.js",
     "static/js/2.14fe5c20.chunk.js",
     "static/css/main.59eb4992.chunk.css",
-    "static/js/main.27c07994.chunk.js"
+    "static/js/main.982b9dcd.chunk.js"
   ]
 }

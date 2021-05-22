@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "28a6c5c50717ee75e66feafa2c4b9701",
+    "revision": "d0a4b488fa7f58780900f0bf3f591674",
     "url": "/HAI/index.html"
   },
   {
-    "revision": "f9c8b89a3ed29565cb2a",
+    "revision": "f74ebec06634ebe45c27",
     "url": "/HAI/static/css/main.59eb4992.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HAI/static/js/2.14fe5c20.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f9c8b89a3ed29565cb2a",
-    "url": "/HAI/static/js/main.27c07994.chunk.js"
+    "revision": "f74ebec06634ebe45c27",
+    "url": "/HAI/static/js/main.982b9dcd.chunk.js"
   },
   {
     "revision": "8e58be0f16ebcd5424db",
