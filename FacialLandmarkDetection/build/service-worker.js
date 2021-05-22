@@ -14,11 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-<<<<<<< HEAD
-  "/HAI/precache-manifest.eed36101ed11922298b320c1a93e442f.js"
-=======
-  "/capstone-2021-14/precache-manifest.1e4de43fe730900c8add3b6fb3c3f292.js"
->>>>>>> a5f164ae1706867b693c04e91c80a17018401b5c
+  "/HAI/precache-manifest.c1d6c501a024052a0509d49964259bf7.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -37,11 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-<<<<<<< HEAD
 workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/HAI/index.html"), {
-=======
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/capstone-2021-14/index.html"), {
->>>>>>> a5f164ae1706867b693c04e91c80a17018401b5c
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
