@@ -59,7 +59,7 @@ class FileUploadContainer extends React.Component {
     return (
       <>
       {/* // <Container> */}
-        <Font30>파일을 업로드 해 주세요</Font30>
+        <Font30>아래 예시 사진과 같이 정면 얼굴이 잘 보이는 사진을 업로드 해주세요.</Font30>
 
         <FileSelect
           onClick={() => document.getElementById("FileInput").click()}

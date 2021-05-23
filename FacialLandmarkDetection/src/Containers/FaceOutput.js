@@ -258,6 +258,7 @@ function preprocess(img)
 {
     //convert the image data to a tensor 
     let tensor = tf.browser.fromPixels(img)
+    console.log(`tensor: ${tensor}`)
     //resize to 224 X 224
     const resized = tf.image.resizeBilinear(tensor, [224, 224]).toFloat()
     // Normalize the image 
